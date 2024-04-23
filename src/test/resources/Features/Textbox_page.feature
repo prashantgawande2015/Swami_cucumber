@@ -29,5 +29,6 @@ Feature: verify submit form functionality
     Then I verify the submitted details
 
     Examples: 
-      | fullname       | email              | currentaddress | permanentaddress |
-      | Sandip Akolkar | saakolkar@gmil.com | Pune           | Ahmednagar       |
+      | fullname           | email                          | currentaddress | permanentaddress |
+      | Sandip Akolkar | saakolkar@gmil.com | Pune               | Ahmednagar       |
+     
